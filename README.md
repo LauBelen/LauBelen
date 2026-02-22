@@ -1,5 +1,5 @@
-👋 Hola, soy @LauBelen
-Soy Jr Software Developer y estudiante de la tecnicatura en el IFTS29 (Buenos Aires).
+👋 Hola, soy @LauBelen,
+Jr Software Developer y estudiante de la tecnicatura en el IFTS29 (Buenos Aires).
 Actualmente me encuentro aprendiendo y practicando distintos lenguajes y frameworks para ampliar mis habilidades, entre ellos: TypeScript, Angular, React y Node.js.
 
 Podés ver mi CV en LinkedIn: https://www.linkedin.com/in/laura-bel%C3%A9n-b-87a422248/
