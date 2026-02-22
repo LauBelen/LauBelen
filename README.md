@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @LauBelen
-- After having fun with some courses, i'm starting my journey in software development as a student at the IFTS29 technical school in Buenos Aires.
-- Currently learning new languages ​​and frameworks to expand my skill set, so far HTML, CSS, JavaScript, TypeScript, Angular, React.js and Node.js.
-- Find my resume on Linkedin https://www.linkedin.com/in/laura-bel%C3%A9n-b-87a422248/
-- I hope your collaboration in new adventures and challenges 💪 
+👋 Hola, soy @LauBelen
+Soy Jr Software Developer y estudiante de la tecnicatura en el IFTS29 (Buenos Aires).
+Actualmente me encuentro aprendiendo y practicando distintos lenguajes y frameworks para ampliar mis habilidades, entre ellos: TypeScript, Angular, React y Node.js.
 
-<!---
-LauBelen/LauBelen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Podés ver mi CV en LinkedIn: https://www.linkedin.com/in/laura-bel%C3%A9n-b-87a422248/
+
+Estoy abierta a colaborar en proyectos, seguir aprendiendo y afrontar nuevos desafíos 💪
